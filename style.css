@@ -213,7 +213,7 @@ p {
 	margin-left: -6px;
 }
 #home {
-	background-image: url("/Users/yuvi/Desktop/computer practicals/background.png");
+	background-image: url("background.png");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
